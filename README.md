@@ -42,7 +42,7 @@
 ###
 
 <div align="left">  
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/matheusvieirasp2018?igsh=MXI3aW94cXo2ZmkwNQ==" />      
+  <a href="https://www.instagram.com/matheusvieirasp2018?igsh=MXI3aW94cXo2ZmkwNQ=="> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
 </div>
 
 ###
