@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Matheus Santos  Viera. (⌐■_■)<br>I completed my technical education at ETEC Horácio Augusto da Silveira in the year 2025.</h1>
+<h1 align="left">Hi 👋! I'm Matheus Santos  Viera. (⌐■_■)<br>I completed my technical education at ETEC Horácio Augusto da Silveira in 2025.</h1>
 
 ###
 
